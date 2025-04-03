@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a love for
 - He/Him
 
 ## ⚡ Fun fact:
-- When I'm not coding, you can find me solving complex puzzles, playing around with new tech, or experimenting with side projects. I love learning and sharing knowledge, so if you’re up for a challenge or collaboration, hit me up!
+I have a soft spot for quiet people—there's something intriguing about their calm energy. If you can crack this riddle: "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?" Let me know your answer, and let's connect!
 
 <!---
 Blckjackk/Blckjackk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
