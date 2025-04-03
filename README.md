@@ -1,38 +1,33 @@
-# 👋 Hi, I'm @Blckjackk
+# Hi, I'm @Blckjackk
+Welcome to my GitHub profile! I’m a passionate backend developer with a focus on building scalable, efficient systems. I enjoy solving complex problems and leveraging the latest technologies to create solutions that have a meaningful impact. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm) to learn more about my professional background.
 
-Welcome to my GitHub profile! I'm a passionate backend developer with a love for problem-solving and building scalable systems. I enjoy exploring new technologies and creating solutions that make a real-world impact. Check out my [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm) to see what I've been working on professionally.
+## Areas of Interest:
+- **Backend Development**: Specializing in crafting efficient APIs and services.
+- **Cloud Computing & Distributed Systems**: Building cloud-native, resilient applications.
+- **Java**: My primary programming language for backend solutions.
+- **Algorithm Design & Optimization**: Striving for clean, efficient code that addresses complex challenges.
 
-## 👀 I’m interested in:
-- 💻 **Backend Development**: Crafting efficient and scalable APIs and services.
-- 🌐 **Cloud Computing & Distributed Systems**: Building robust, cloud-native applications.
-- 🛠 **Java**: My go-to programming language for backend solutions.
-- 🔄 **Algorithm Design & Optimization**: Creating clean, efficient code that solves complex problems.
+## Currently Learning:
+- **Microservices Architecture**: Delving deeper into the design and deployment of microservices.
+- **Cloud Platforms**: Gaining expertise in AWS, GCP, and Azure for building robust cloud-based applications.
+- **Performance Optimization**: Enhancing the speed and scalability of backend systems.
+- **Advanced Data Structures & Algorithms**: Continuously refining my problem-solving skills through algorithmic challenges.
 
-## 🌱 I’m currently learning:
-- 🏗 **Microservices Architecture**: Diving into the world of microservices and containerization.
-- 🚀 **Cloud Platforms**: Exploring AWS, GCP, and Azure for building cloud-based applications.
-- ⚙️ **Performance Optimization**: Optimizing backend systems for speed and scalability.
-- 🔍 **Data Structures & Algorithms**: Always improving my understanding of algorithms to solve challenges better.
+## Open to Collaboration:
+- **Open Source Projects**: Contributing to initiatives that drive positive change in the tech community.
+- **Backend Architecture**: Designing systems that can scale to handle millions of requests daily.
+- **Tech Startups**: I am eager to collaborate with teams focused on innovative solutions.
+- **Collaborative Learning**: I believe in mutual growth through sharing knowledge and tackling challenges together.
 
-## 💞️ I’m looking to collaborate on:
-- 🌍 **Open Source Projects**: Contributing to projects that benefit the community.
-- 🔥 **Backend Architecture**: Designing backend systems that handle millions of requests per day.
-- 🤝 **Tech Startups**: If you're building something new, I'd love to be a part of it.
-- 🧑‍💻 **Collaborative Learning**: Let's grow together by sharing knowledge and tackling tough challenges!
+## How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm)
+- **Email**: [diegomortar@gmail.com](mailto:diegomortar@gmail.com)
+- **Instagram**: [izzuddn.azzm](https://www.instagram.com/izzuddn.azzm)
 
-## 📫 How to reach me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm)
-- 📧 Email: [diegomortar@gmail.com](mailto:diegomortar@gmail.com)
-- 📸 Instagram: [izzuddn.azzm](https://www.instagram.com/izzuddn.azzm)
-
-
-## 😄 Pronouns:
+## Pronouns:
 - He/Him
 
-## ⚡ Fun fact:
-I have a soft spot for quiet people—there's something intriguing about their calm energy. If you can crack this riddle: "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?" Let me know your answer, and let's connect!
-
-<!---
-Blckjackk/Blckjackk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Fun Fact:
+I have a particular appreciation for individuals with quiet energy; there's something captivating about their calm presence. Here’s a riddle for you:  
+**"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"**  
+Feel free to reach out with your answer, and let's connect!
