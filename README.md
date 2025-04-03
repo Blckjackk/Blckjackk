@@ -1,4 +1,4 @@
-# Hi, I'm @Blckjackk
+# Hi, I'm @Blckjackk 👋
 Welcome to my GitHub profile! I’m a passionate backend developer with a focus on building scalable, efficient systems. I enjoy solving complex problems and leveraging the latest technologies to create solutions that have a meaningful impact. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm) to learn more about my professional background.
 
 ## Areas of Interest:
@@ -28,6 +28,11 @@ Welcome to my GitHub profile! I’m a passionate backend developer with a focus 
 - He/Him
 
 ## Fun Fact:
-I have a particular appreciation for individuals with quiet energy; there's something captivating about their calm presence. Here’s a riddle for you:  
+I have a particular appreciation for individuals with quiet energy; there's something captivating about their calm presence. Here's a riddle for you:  
 **"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"**  
-Feel free to reach out with your answer, and let's connect!
+Feel free to reach out with your answer, and let’s connect! 🌟
+
+## About This Repository:
+This GitHub account serves as a personal repository to store and manage my code throughout my academic journey. Whether it's small assignments, personal projects, or just experimenting with new concepts, you’ll find my progress here. I use this space to refine my skills and track my learning milestones. 📚
+
+Thank you for visiting!
