@@ -59,40 +59,39 @@ public class Blckjackk {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="48" height="48"/><br />
       <b>Backend Development</b><br />
       <small>Efficient APIs & robust services</small>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/><br />
       <b>Cloud Computing</b><br />
       <small>Cloud-native, resilient applications</small>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48"/><br />
       <b>Java Ecosystem</b><br />
       <small>My go-to language for backend engineering</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/microservices.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48"/><br />
       <b>Microservices</b><br />
       <small>Modular and scalable systems</small>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/flow-chart.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/><br />
       <b>Algorithm Design</b><br />
       <small>Clean, optimized solutions to tough problems</small>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/increase.png" width="48" height="48"/><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/><br />
       <b>Performance Optimization</b><br />
       <small>Fast & scalable applications</small>
     </td>
   </tr>
 </table>
-
 
 ## 📊 GitHub Stats
 
