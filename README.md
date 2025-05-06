@@ -143,13 +143,50 @@ public class Blckjackk {
   <img src="https://img.shields.io/badge/Advanced-Algorithms-blue?style=for-the-badge" alt="Advanced Algorithms" />
 </div>
 
-## 🤝 Open to Collaboration
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
 
+<!-- Brief Introduction -->
+<div align="center">
+  <h3>👨‍💻 Backend Engineer | Open Source Enthusiast | Problem Solver</h3>
+  <p>Building scalable systems and contributing to meaningful projects</p>
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blckjackk&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blckjackk&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<!-- Tech Stack -->
+<div align="center">
+  <h2>⚡ Tech Stack</h2>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blckjackk&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<!-- Open to Collaboration -->
+<h2 align="center">🤝 Open to Collaboration</h2>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" width="48" height="48" /><br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/><br />
         <b>Open Source</b><br />
         <small>Let's build something impactful</small>
       </td>
@@ -172,20 +209,21 @@ public class Blckjackk {
   </table>
 </div>
 
-## 💭 Thought of the Day
-
+<!-- Thought of the Day -->
+<h2 align="center">💭 Thought of the Day</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-🎵 What I'm Listening To
+<!-- Music Section -->
+<h2 align="center">🎵 What I'm Listening To</h2>
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="50%" align="center">
         <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <p><b>🎧 My Top Genres</b></p>
         <img src="https://img.shields.io/badge/Electronic-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Electronic"/>
         <img src="https://img.shields.io/badge/Hip%20Hop-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Hip Hop"/>
@@ -195,10 +233,11 @@ public class Blckjackk {
     </tr>
   </table>
 </div>
-<!-- Alternative without Spotify API -->
+
+<!-- Alternative Music Section -->
 <div align="center">
   <details>
-    <summary>🎵 Alternative Music Section (if Spotify API doesn't work)</summary>
+    <summary><b>🎵 Alternative Music Section (if Spotify API doesn't work)</b></summary>
     <br>
     <table>
       <tr>
@@ -214,34 +253,51 @@ public class Blckjackk {
     </table>
   </details>
 </div>
-## 🧩 Riddle For You
 
+<!-- Riddle Section -->
+<h2 align="center">🧩 Riddle For You</h2>
 <div align="center">
-  <h3>"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"</h3>
-  <details>
-    <summary>Click for the answer!</summary>
-    <p>An echo</p>
-  </details>
+  <table>
+    <tr>
+      <td align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
+        <h3>"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"</h3>
+        <details>
+          <summary><b>Click for the answer!</b></summary>
+          <p><i>An echo</i> 🔊</p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Dev Joke -->
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </div>
 
-## 📫 Let's Connect
-
+<!-- Connect Section -->
+<h2 align="center">📫 Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/izzuddn-azzm">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/izzuddn-azzm" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:diegomortar@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/izzuddn.azzm">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="48" height="48" alt="Instagram" />
+  <a href="https://www.instagram.com/izzuddn.azzm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blckjackk&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
 ---
 
 <div align="center">
