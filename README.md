@@ -179,12 +179,42 @@ public class Blckjackk {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-## 🎵 What I'm Listening To
-
+🎵 What I'm Listening To
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>
+      </td>
+      <td width="50%">
+        <p><b>🎧 My Top Genres</b></p>
+        <img src="https://img.shields.io/badge/Electronic-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Electronic"/>
+        <img src="https://img.shields.io/badge/Hip%20Hop-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Hip Hop"/>
+        <img src="https://img.shields.io/badge/Indie-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Indie"/>
+        <img src="https://img.shields.io/badge/Rock-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Rock"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
+<!-- Alternative without Spotify API -->
+<div align="center">
+  <details>
+    <summary>🎵 Alternative Music Section (if Spotify API doesn't work)</summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+          <p><b>Currently vibing to coding playlists and focus music</b></p>
+          <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j" target="_blank">
+            <img src="https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6" width="200" alt="Coding Mode Playlist"/>
+          </a>
+          <p>Coding Mode</p>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
 ## 🧩 Riddle For You
 
 <div align="center">
