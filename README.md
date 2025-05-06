@@ -26,6 +26,7 @@ public class Blckjackk {
     private final String[] frameworks = {"Spring Boot", "Hibernate", "Express"};
     private final String[] tools = {"Docker", "Git", "Maven", "Gradle"};
     private final String[] databases = {"PostgreSQL", "MongoDB", "Redis"};
+    private final boolean love = true
     
     public String getFunFact() {
         return "I admire people with quiet energy — there's something powerful in their calm.";
@@ -34,7 +35,10 @@ public class Blckjackk {
     public String getRiddle() {
         return "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?";
     }
-}
+
+    public boolean lovePerson(){
+         return true
+    }
 ```
 
 ## 🛠️ Tech Stack
