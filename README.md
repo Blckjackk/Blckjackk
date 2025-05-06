@@ -149,22 +149,52 @@ public class Blckjackk {
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/open-source.png" width="48" height="48"/><br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/><br />
         <b>Open Source</b><br />
         <small>Let's build something impactful</small>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/infrastructure.png" width="48" height="48"/><br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br />
         <b>Backend Architecture</b><br />
         <small>Design for scale and resilience</small>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/rocket.png" width="48" height="48"/><br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48"/><br />
         <b>Tech Startups</b><br />
         <small>Solving real problems</small>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/48/000000/learn.png" width="48" height="48"/><br />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/><br />
+        <b>Collaborative Learning</b><br />
+        <small>Growing together through code</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Alternative version with emoji icons for maximum compatibility -->
+## 🤝 Open to Collaboration
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        🌐<br />
+        <b>Open Source</b><br />
+        <small>Let's build something impactful</small>
+      </td>
+      <td align="center" width="25%">
+        ⚙️<br />
+        <b>Backend Architecture</b><br />
+        <small>Design for scale and resilience</small>
+      </td>
+      <td align="center" width="25%">
+        🚀<br />
+        <b>Tech Startups</b><br />
+        <small>Solving real problems</small>
+      </td>
+      <td align="center" width="25%">
+        📚<br />
         <b>Collaborative Learning</b><br />
         <small>Growing together through code</small>
       </td>
