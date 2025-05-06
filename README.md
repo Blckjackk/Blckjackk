@@ -59,12 +59,12 @@ public class Blckjackk {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="48" height="48"/><br />
+      <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="48" height="48"/><br />
       <b>Backend Development</b><br />
       <small>Efficient APIs & robust services</small>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/><br />
+      <img src="https://img.icons8.com/color/48/000000/flow-chart.png" width="48" height="48"/><br />
       <b>Cloud Computing</b><br />
       <small>Cloud-native, resilient applications</small>
     </td>
