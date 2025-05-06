@@ -149,7 +149,7 @@ public class Blckjackk {
   <table>
     <tr>
       <td align="center" width="25%">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Open_Source_Initiative_keyhole.svg" width="48" height="48" /><br />
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png" width="48" height="48" /><br />
         <b>Open Source</b><br />
         <small>Let's build something impactful</small>
       </td>
@@ -165,36 +165,6 @@ public class Blckjackk {
       </td>
       <td align="center" width="25%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48"/><br />
-        <b>Collaborative Learning</b><br />
-        <small>Growing together through code</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Alternative version with emoji icons for maximum compatibility -->
-## 🤝 Open to Collaboration
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        🌐<br />
-        <b>Open Source</b><br />
-        <small>Let's build something impactful</small>
-      </td>
-      <td align="center" width="25%">
-        ⚙️<br />
-        <b>Backend Architecture</b><br />
-        <small>Design for scale and resilience</small>
-      </td>
-      <td align="center" width="25%">
-        🚀<br />
-        <b>Tech Startups</b><br />
-        <small>Solving real problems</small>
-      </td>
-      <td align="center" width="25%">
-        📚<br />
         <b>Collaborative Learning</b><br />
         <small>Growing together through code</small>
       </td>
