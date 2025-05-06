@@ -105,9 +105,8 @@ public class Blckjackk {
 </div>
 
 ## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Blckjackk&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blckjackk&theme=dark" width="100%" alt="Contribution Streak" />
 </div>
 
 ## 🚀 Current Projects
