@@ -1,38 +1,74 @@
-# Hi, I'm @Blckjackk 👋
-Welcome to my GitHub profile! I’m a passionate backend developer with a focus on building scalable, efficient systems. I enjoy solving complex problems and leveraging the latest technologies to create solutions that have a meaningful impact. Feel free to check out my [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm) to learn more about my professional background.
+# Hi, I'm @Blckjackk 👋  
+![Visitor Badge](https://komarev.com/ghpvc/?username=Blckjackk&style=flat-square&color=blue)
 
-## Areas of Interest:
-- **Backend Development**: Specializing in crafting efficient APIs and services.
-- **Cloud Computing & Distributed Systems**: Building cloud-native, resilient applications.
-- **Java**: My primary programming language for backend solutions.
-- **Algorithm Design & Optimization**: Striving for clean, efficient code that addresses complex challenges.
+Welcome to my GitHub profile! I’m a passionate **backend developer** who enjoys building scalable and efficient systems. I love solving complex problems and leveraging the latest technologies to create meaningful solutions.  
 
-## Currently Learning:
-- **Microservices Architecture**: Delving deeper into the design and deployment of microservices.
-- **Cloud Platforms**: Gaining expertise in AWS, GCP, and Azure for building robust cloud-based applications.
-- **Performance Optimization**: Enhancing the speed and scalability of backend systems.
-- **Advanced Data Structures & Algorithms**: Continuously refining my problem-solving skills through algorithmic challenges.
+📌 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-izzuddn--azzm-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/izzuddn-azzm)
 
-## Open to Collaboration:
-- **Open Source Projects**: Contributing to initiatives that drive positive change in the tech community.
-- **Backend Architecture**: Designing systems that can scale to handle millions of requests daily.
-- **Tech Startups**: I am eager to collaborate with teams focused on innovative solutions.
-- **Collaborative Learning**: I believe in mutual growth through sharing knowledge and tackling challenges together.
+---
 
-## How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/izzuddn-azzm)
-- **Email**: [diegomortar@gmail.com](mailto:diegomortar@gmail.com)
-- **Instagram**: [izzuddn.azzm](https://www.instagram.com/izzuddn.azzm)
+## 💡 Areas of Interest  
+- 🛠️ **Backend Development** — Efficient APIs & robust services  
+- ☁️ **Cloud Computing & Distributed Systems** — Cloud-native, resilient apps  
+- ☕ **Java** — My go-to language for backend engineering  
+- 🧠 **Algorithm Design** — Clean, optimized solutions to tough problems  
 
-## Pronouns:
-- He/Him
+---
 
-## Fun Fact:
-I have a particular appreciation for individuals with quiet energy; there's something captivating about their calm presence. Here's a riddle for you:  
-**"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"**  
-Feel free to reach out with your answer, and let’s connect! 🌟
+## 📘 Currently Learning  
+- 🧩 **Microservices Architecture** — Modular and scalable systems  
+- ☁️ **Cloud Platforms** — AWS | GCP | Azure  
+- 🚀 **Performance Optimization** — Fast & scalable apps  
+- 📈 **Advanced Algorithms** — Refining problem-solving with DSA  
 
-## About This Repository:
-This GitHub account serves as a personal repository to store and manage my code throughout my academic journey. Whether it's small assignments, personal projects, or just experimenting with new concepts, you’ll find my progress here. I use this space to refine my skills and track my learning milestones. 📚
+---
 
-Thank you for visiting!
+## 🤝 Open to Collaboration  
+- 🌍 **Open Source Projects** — Let’s build something impactful  
+- 🧱 **Backend Architecture** — Designing for scale and resilience  
+- 🚀 **Tech Startups** — Passionate teams solving real problems  
+- 📚 **Collaborative Learning** — Growing together through code  
+
+---
+
+## 📫 How to Reach Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-izzuddn--azzm-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/izzuddn-azzm)  
+[![Gmail](https://img.shields.io/badge/Email-diegomortar@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:diegomortar@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-izzuddn.azzm-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/izzuddn.azzm)
+
+---
+
+## 🙋‍♂️ Pronouns  
+**He/Him**
+
+---
+
+## 🎉 Fun Fact  
+I admire people with quiet energy — there’s something powerful in their calm.  
+🧩 Here's a riddle for you:
+
+> **"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"**
+
+Let me know your answer! 😄
+
+---
+
+## 🗂️ About This Repository  
+This GitHub profile is my personal space for growth.  
+📦 You’ll find academic projects, experiments, and ideas as I explore the world of backend engineering and computer science.
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Blckjackk&show_icons=true&theme=graywhite&card_width=400&hide_border=true" height="200" alt="GitHub Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blckjackk&theme=graywhite&layout=compact&card_width=370&langs_count=8&hide=jupyter%20notebook&hide_border=true" height="200" alt="Top Languages">
+
+</div>
+
+---
+
+Thanks for stopping by! 👋
