@@ -149,7 +149,7 @@ public class Blckjackk {
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/github/000000" width="48" height="48" /><br />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Open_Source_Initiative_keyhole.svg" width="48" height="48" /><br />
         <b>Open Source</b><br />
         <small>Let's build something impactful</small>
       </td>
