@@ -171,12 +171,6 @@ public class Blckjackk {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blckjackk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&currStreakLabel=5BCDEC&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Blckjackk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/snake.svg" alt="Snake animation" />
-
 ###
 <!-- Music Section -->
 <h2 align="center">🎵 What I'm Listening To</h2>
@@ -260,11 +254,6 @@ public class Blckjackk {
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
 <!--
