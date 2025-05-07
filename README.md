@@ -175,8 +175,19 @@ public class Blckjackk {
   <img src="https://activity-graph.herokuapp.com/graph?username=Blckjackk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎮 Interactive Game Zone
+<img src="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<!-- 🎮 Interactive Game Zone -->
 <div align="center">
   <details>
     <summary><h3>🎲 Play "Code Quest" (Click to expand)</h3></summary>
@@ -185,18 +196,18 @@ public class Blckjackk {
       <tr>
         <td>
           <pre>
-          _____          _        _____                 _   
-         / ____|        | |      / ____|               | |  
-        | |     ___   __| | ___  | |  __ _   _  ___  ___| |_ 
-        | |    / _ \ / _` |/ _ \ | | |_ | | | |/ _ \/ __| __|
-        | |___| (_) | (_| |  __/ | |__| | |_| |  __/\__ \ |_ 
-         \_____\___/ \__,_|\___|  \_____|\__,_|\___||___/\__|
+  _____          _        _____                 _   
+ / ____|        | |      / ____|               | |  
+| |     ___   __| | ___  | |  __ _   _  ___  ___| |_ 
+| |    / _ \ / _` |/ _ \ | | |_ | | | |/ _ \/ __| __|
+| |___| (_) | (_| |  __/ | |__| | |_| |  __/\__ \ |_ 
+ \_____\___/ \__,_|\___|  \_____|\__,_|\___||___/\__|
           </pre>
         </td>
       </tr>
       <tr>
         <td>
-          <div id="game-output" style="background-color: #0D1117; color: #5BCDEC; padding: 15px; border-radius: 5px; font-family: monospace; height: 250px; overflow-y: auto; text-align: left;">
+          <div style="background-color: #0D1117; color: #5BCDEC; padding: 15px; border-radius: 5px; font-family: monospace; height: 250px; overflow-y: auto; text-align: left;">
             Welcome to Code Quest! You're a developer facing coding challenges.<br><br>
             You're in your office. Where would you like to go?<br>
             1. Database server room<br>
@@ -225,10 +236,8 @@ public class Blckjackk {
             3. Attempt a full-stack project<br><br>
             <span style="color: #47A248;">► What's your next move?</span><br>
             <span class="game-input">3</span><br><br>
-            ACHIEVEMENT UNLOCKED: Full-Stack Developer<br>
-            You've started a full-stack project combining your backend expertise with your new frontend skills!<br><br>
-            <span style="color: gold;">✨ CONGRATULATIONS! You've completed this branch of Code Quest! ✨</span><br>
-            <span style="color: #47A248;">► Fork this repo to get the full game with many more challenges and paths!</span>
+            <strong style="color: gold;">✨ CONGRATULATIONS! You've completed this branch of Code Quest! ✨</strong><br>
+            You've started a full-stack project combining your backend expertise with your new frontend skills!
           </div>
         </td>
       </tr>
@@ -236,7 +245,8 @@ public class Blckjackk {
   </details>
 </div>
 
-<div align="center">
+<!-- 🧩 Coding Challenge -->
+<div align="center" style="margin-top: 40px;">
   <details>
     <summary><h3>🧩 Solve The Coding Challenge (Click to expand)</h3></summary>
     <table>
@@ -244,308 +254,41 @@ public class Blckjackk {
         <td style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
           <h4 style="color: #5BCDEC;">Challenge: Find the missing number</h4>
           <pre style="background-color: #1A1B26; padding: 15px; border-radius: 5px; overflow-x: auto;">
-```java
+<code>
 public class MissingNumber {
     public static void main(String[] args) {
         int[] nums = {9, 6, 4, 2, 3, 5, 7, 0, 1};
         System.out.println("The missing number is: " + findMissingNumber(nums));
     }
-    
+
     public static int findMissingNumber(int[] nums) {
         // Your solution here
         // Hint: This can be solved in O(n) time with O(1) space
     }
 }
-```
+</code>
           </pre>
           <details>
-            <summary><b>See Solution</b></summary>
+            <summary><b style="color: lightgreen;">See Solution</b></summary>
             <pre style="background-color: #1A1B26; padding: 15px; border-radius: 5px; overflow-x: auto;">
-```java
+<code>
 public static int findMissingNumber(int[] nums) {
     int n = nums.length;
     int expectedSum = n * (n + 1) / 2;
     int actualSum = 0;
-    
+
     for (int num : nums) {
         actualSum += num;
     }
-    
+
     return expectedSum - actualSum;
 }
-```
+</code>
             </pre>
-            <p>The solution uses the mathematical formula for the sum of first n natural numbers (n*(n+1)/2) and subtracts the actual sum of the array to find the missing number.</p>
+            <p style="color: #C9D1D9;">The solution uses the formula for the sum of the first n natural numbers, subtracts the actual sum from it, and reveals the missing number.</p>
           </details>
         </td>
       </tr>
     </table>
   </details>
 </div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Microservices E-Commerce Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Blckjackk/microservices-ecommerce" target="_blank">
-            <img src="https://camo.githubusercontent.com/a3af6cd029e6a52be67b8b0e5478f2c43e36ecc26368e9a86706815ec0abd8ed/68747470733a2f2f616e696d6174696f6e732e6d6963726f736f66742e636f6d2f616e692f75736572732f5061636b2f5061636b5f31325f323530302e676966" width="100%" alt="Microservices E-Commerce" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Java, Spring Boot, Docker, Kafka, Kubernetes</strong>
-          </p>
-          <p>A complete microservices-based e-commerce platform with event-driven architecture, resilient design, and advanced caching strategies for high-performance online shopping experiences.</p>
-          <p>
-            <a href="https://github.com/Blckjackk/microservices-ecommerce" target="_blank">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://ecommerce-demo.izzuddin-azzam.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Cloud-Native Deployment Platform</h3>
-        <div align="center">
-          <a href="https://github.com/Blckjackk/cloud-deployment-platform" target="_blank">
-            <img src="https://camo.githubusercontent.com/d88ee0aec89684ef0e9d8a7889c6914e937eea1978386ef9087d84e9a0b8b7e9/68747470733a2f2f696d672e6672656570696b2e636f6d2f70726f746563742d7265642d636f6d70757465722d686f7574656e2d696e7465726e65742d6f722d6461726b2d7765622d6d6f6e69746f722d61726f756e642d646174612d63656e7465722d63726f7373696e672d6f75742d736563757269747926646d3d6c" width="100%" alt="Cloud-Native Deployment" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Kubernetes, Terraform, AWS, CI/CD, GitOps</strong>
-          </p>
-          <p>An automated cloud deployment platform with GitOps workflow, infrastructure as code, and intelligent scaling capabilities for modern application deployment.</p>
-          <p>
-            <a href="https://github.com/Blckjackk/cloud-deployment-platform" target="_blank">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://deployment.izzuddin-azzam.com" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Real-Time Analytics Engine</h3>
-        <div align="center">
-          <a href="https://github.com/Blckjackk/realtime-analytics" target="_blank">
-            <img src="https://camo.githubusercontent.com/8a30bd9c15437fffb44341b7a3ccf4a1a0fe01e0e50dfacbe9c8b144b2e1c4b0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5244415276675578594c674a6661554c5447586a76672e676966" width="100%" alt="Real-Time Analytics" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Python, Apache Kafka, Spark, Elasticsearch, Grafana</strong>
-          </p>
-          <p>A high-throughput analytics processing engine for real-time data streams with complex event processing, anomaly detection, and interactive dashboards.</p>
-          <p>
-            <a href="https://github.com/Blckjackk/realtime-analytics" target="_blank">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://analytics.izzuddin-azzam.com" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Advanced API Gateway</h3>
-        <div align="center">
-          <a href="https://github.com/Blckjackk/api-gateway" target="_blank">
-            <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="API Gateway" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <strong>Java, Spring Cloud Gateway, OAuth2, Redis, Prometheus</strong>
-          </p>
-          <p>Enterprise-grade API gateway with authentication, rate limiting, circuit breaking, and comprehensive monitoring for secure and reliable API management.</p>
-          <p>
-            <a href="https://github.com/Blckjackk/api-gateway" target="_blank">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://gateway.izzuddin-azzam.com" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📚 My Learning Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/In%20Progress-FF6B6B?style=for-the-badge&logoColor=white" alt="In Progress"/>
-        <h4>Reactive Programming</h4>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48"/><br>
-        <progress value="75" max="100" style="width: 100%;"></progress>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/In%20Progress-FF6B6B?style=for-the-badge&logoColor=white" alt="In Progress"/>
-        <h4>Event Sourcing</h4>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="48" height="48"/><br>
-        <progress value="60" max="100" style="width: 100%;"></progress>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/Planned-4285F4?style=for-the-badge&logoColor=white" alt="Planned"/>
-        <h4>Serverless Architecture</h4>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48"/><br>
-        <progress value="30" max="100" style="width: 100%;"></progress>
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/Planned-4285F4?style=for-the-badge&logoColor=white" alt="Planned"/>
-        <h4>Machine Learning</h4>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48"/><br>
-        <progress value="15" max="100" style="width: 100%;"></progress>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🧩 Daily Developer Riddle
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
-        <h3>"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"</h3>
-        <details>
-          <summary><b>Click for the answer!</b></summary>
-          <p><i>An echo</i> 🔊</p>
-        </details>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎵 My Coding Soundtrack
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1262568908&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</div>
-
-## 🧬 Code Is Art
-
-<div align="center">
-  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="500" alt="Code Animation" />
-</div>
-
-## 🌟 Workspace Setup
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine-MacBook%20Pro%20M2-silver?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Terminal-iTerm2+Oh%20My%20Zsh-green?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Theme-Dracula%20Dark-purple?style=for-the-badge&logo=dracula&logoColor=white" alt="Dracula Dark"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Font-JetBrains%20Mono-orange?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Mono"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Keyboard-HHKB%20Pro-teal?style=for-the-badge&logo=logitech&logoColor=white" alt="HHKB Pro"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🤣 Developer Humor
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Dev Joke" />
-</div>
-
-## 🔮 Did you know?
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="background-color: #1a1b27; padding: 15px; border-radius: 10px; text-align: center;">
-          <h4>Java Fun Fact:</h4>
-          <p>Java was originally called "Oak" after an oak tree outside the developer's office. It was renamed to "Java" after a type of coffee from Indonesia.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎮 Let's Play Rock Paper Scissors!
-
-<div align="center">
-  <details>
-    <summary><h3>Click to play Rock Paper Scissors!</h3></summary>
-    <table>
-      <tr>
-        <td align="center" width="33%">
-          <a href="#rock">
-            <img src="https://user-images.githubusercontent.com/68908198/188761591-63c59477-32b6-4190-bb75-b77f3cf7d8da.png" alt="Rock" width="100"/>
-            <br/><strong>Rock</strong>
-          </a>
-        </td>
-        <td align="center" width="33%">
-          <a href="#paper">
-            <img src="https://user-images.githubusercontent.com/68908198/188761595-ec9e40ef-167e-4c10-9883-3fefc63f70df.png" alt="Paper" width="100"/>
-            <br/><strong>Paper</strong>
-          </a>
-        </td>
-        <td align="center" width="33%">
-          <a href="#scissors">
-            <img src="https://user-images.githubusercontent.com/68908198/188761596-e1dcde14-d0b7-4264-84e0-c7ea1984f62a.png" alt="Scissors" width="100"/>
-            <br/><strong>Scissors</strong>
-          </a>
-        </td>
-      </tr>
-    </table>
-
-  <br/>
-  <p><em>Make your choice and scroll down to see the result!</em></p>
-  </details>
-</div>
-
----
-
-### 🎯 Result Section (for demo only)
-
-> You chose: **Rock**  
-> Bot chose: **Scissors**  
-> 🏆 **You Win!**
-
----
-
-<style>
-  summary h3 {
-    display: inline;
-  }
-  img {
-    transition: transform 0.2s;
-  }
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
