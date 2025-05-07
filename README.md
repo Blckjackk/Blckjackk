@@ -178,168 +178,95 @@ public class Blckjackk {
 <img src="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/snake.svg" alt="Snake animation" />
 
 ###
+<!-- Music Section -->
+<h2 align="center">🎵 What I'm Listening To</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <p><b>🎧 My Top Genres</b></p>
+        <img src="https://img.shields.io/badge/Electronic-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Electronic"/>
+        <img src="https://img.shields.io/badge/Hip%20Hop-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Hip Hop"/>
+        <img src="https://img.shields.io/badge/Indie-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Indie"/>
+        <img src="https://img.shields.io/badge/Rock-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Rock"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Blckjackk/Blckjackk/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<!-- 🎮 Interactive Game Zone -->
+<!-- Alternative Music Section -->
 <div align="center">
   <details>
-    <summary><h3>🎲 Play "Code Quest" (Click to expand)</h3></summary>
-    <h4>Welcome to Code Quest - A text-based adventure!</h4>
+    <summary><b>🎵 Alternative Music Section (if Spotify API doesn't work)</b></summary>
+    <br>
     <table>
       <tr>
-        <td>
-          <pre>
-  _____          _        _____                 _   
- / ____|        | |      / ____|               | |  
-| |     ___   __| | ___  | |  __ _   _  ___  ___| |_ 
-| |    / _ \ / _` |/ _ \ | | |_ | | | |/ _ \/ __| __|
-| |___| (_) | (_| |  __/ | |__| | |_| |  __/\__ \ |_ 
- \_____\___/ \__,_|\___|  \_____|\__,_|\___||___/\__|
-          </pre>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div style="background-color: #0D1117; color: #5BCDEC; padding: 15px; border-radius: 5px; font-family: monospace; height: 250px; overflow-y: auto; text-align: left;">
-            Welcome to Code Quest! You're a developer facing coding challenges.<br><br>
-            You're in your office. Where would you like to go?<br>
-            1. Database server room<br>
-            2. Frontend team area<br>
-            3. Cloud infrastructure lab<br>
-            4. Take a coffee break<br><br>
-            <span style="color: #47A248;">► Type 1, 2, 3, or 4 to proceed</span><br>
-            <span class="game-input">2</span><br><br>
-            You visit the Frontend team area. They're struggling with a React component.<br>
-            What do you do?<br>
-            1. Help debug their code<br>
-            2. Suggest a better architecture<br>
-            3. Return to your desk<br><br>
-            <span style="color: #47A248;">► Choose your action</span><br>
-            <span class="game-input">1</span><br><br>
-            You find the bug! It was a scope issue in their hooks.<br>
-            The team is grateful and offers you:<br>
-            1. A new mechanical keyboard<br>
-            2. Their CSS framework knowledge<br>
-            3. Just a thank you<br><br>
-            <span style="color: #47A248;">► What will you accept?</span><br>
-            <span class="game-input">2</span><br><br>
-            You've learned new CSS skills! Now you can:<br>
-            1. Return to your backend work<br>
-            2. Help more with frontend issues<br>
-            3. Attempt a full-stack project<br><br>
-            <span style="color: #47A248;">► What's your next move?</span><br>
-            <span class="game-input">3</span><br><br>
-            <strong style="color: gold;">✨ CONGRATULATIONS! You've completed this branch of Code Quest! ✨</strong><br>
-            You've started a full-stack project combining your backend expertise with your new frontend skills!
-          </div>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+          <p><b>Currently vibing to coding playlists and focus music</b></p>
+          <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j" target="_blank">
+            <img src="https://i.scdn.co/image/ab67706f00000003ca5a7517156021292e5663a6" width="200" alt="Coding Mode Playlist"/>
+          </a>
+          <p>Coding Mode</p>
         </td>
       </tr>
     </table>
   </details>
 </div>
 
-<!-- 🧩 Coding Challenge -->
-<div align="center" style="margin-top: 40px;">
-  <details>
-    <summary><h3>🧩 Solve The Coding Challenge (Click to expand)</h3></summary>
-    <table>
-      <tr>
-        <td style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
-          <h4 style="color: #5BCDEC;">Challenge: Find the missing number</h4>
-          <pre style="background-color: #1A1B26; padding: 15px; border-radius: 5px; overflow-x: auto;">
-<code>
-public class MissingNumber {
-    public static void main(String[] args) {
-        int[] nums = {9, 6, 4, 2, 3, 5, 7, 0, 1};
-        System.out.println("The missing number is: " + findMissingNumber(nums));
-    }
-
-    public static int findMissingNumber(int[] nums) {
-        // Your solution here
-        // Hint: This can be solved in O(n) time with O(1) space
-    }
-}
-</code>
-          </pre>
-          <details>
-            <summary><b style="color: lightgreen;">See Solution</b></summary>
-            <pre style="background-color: #1A1B26; padding: 15px; border-radius: 5px; overflow-x: auto;">
-<code>
-public static int findMissingNumber(int[] nums) {
-    int n = nums.length;
-    int expectedSum = n * (n + 1) / 2;
-    int actualSum = 0;
-
-    for (int num : nums) {
-        actualSum += num;
-    }
-
-    return expectedSum - actualSum;
-}
-</code>
-            </pre>
-            <p style="color: #C9D1D9;">The solution uses the formula for the sum of the first n natural numbers, subtracts the actual sum from it, and reveals the missing number.</p>
-          </details>
-        </td>
-      </tr>
-    </table>
-  </details>
+<!-- Riddle Section -->
+<h2 align="center">🧩 Riddle For You</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
+        <h3>"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"</h3>
+        <details>
+          <summary><b>Click for the answer!</b></summary>
+          <p><i>An echo</i> 🔊</p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Dev Joke -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+</div>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- Connect Section -->
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/izzuddn-azzm" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:diegomortar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/izzuddn.azzm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-###
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blckjackk&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<!--
+*Blckjackk/Blckjackk* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
